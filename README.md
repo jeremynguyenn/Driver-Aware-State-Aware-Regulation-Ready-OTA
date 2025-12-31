@@ -1,4 +1,4 @@
-## Challenge
+## For security reasons, only the content of readme.md, which contains the project information, will be IPed; the source code will be hidden.
 **Update Possible Challenge**
 ---
 ## Core Idea
