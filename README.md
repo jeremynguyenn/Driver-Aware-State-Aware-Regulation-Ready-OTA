@@ -25,9 +25,9 @@ With Safeguard, OTA isn’t just about pushing updates — it’s about ensuring
 - **Future AI**: Tracker data becomes the foundation for predictive insights → fleet maintenance optimization, energy-aware updates.
 
 ## Demo scenario
-![alt text](<challenge-mission-update-possible-with_uprotocol_target_provider/assets/Brainstorming et idéation (5).png>)
+![alt text](<>)
 
-<img width="1085" height="1607" alt="image" src="https://github.com/user-attachments/assets/6b88da2e-f891-4c4a-af30-bebb4de331ef" />
+<img width="1085" height="1607" alt="image" src="" />
 
 
 # 2. How Do You Work
