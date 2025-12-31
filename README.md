@@ -1,16 +1,3 @@
-# Den-Team
-
-## Panic early debug later
-
-## Team Members
-| Name             | GitHub Handle | Roles |
-|------------------|----------|---------------------------------------------|
-| Rihab Saidi /Ayane Makiuchi     | RiSaidi/ upi5  | Update functionality                |
-| Priyanka Mohanta | primohanta | System integration         | 
-| Mandar kharde    |  mkhardedenso               | ECU level architecture|
-| satoshi kaneko   | satoshi58                   |  Symphony-Ankaios system communication|
-
-
 ## Challenge
 **Update Possible Challenge**
 ---
