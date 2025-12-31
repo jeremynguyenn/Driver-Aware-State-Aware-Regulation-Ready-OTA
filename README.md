@@ -27,7 +27,7 @@ With Safeguard, OTA isn’t just about pushing updates — it’s about ensuring
 ## Demo scenario
 ![alt text](<https://github.com/jeremynguyenn/Driver-Aware-State-Aware-Regulation-Ready-OTA/blob/main/pics/Brainstorming%20et%20id%C3%A9ation%20(5).png>)
 
-<img width="1085" height="1607" alt="image" src="" />
+<img width="1085" height="1607" alt="image" src="https://github.com/jeremynguyenn/Driver-Aware-State-Aware-Regulation-Ready-OTA/blob/main/pics/UML.png" />
 
 
 # 2. How Do You Work
