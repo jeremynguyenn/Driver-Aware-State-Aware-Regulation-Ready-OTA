@@ -25,7 +25,7 @@ With Safeguard, OTA isn’t just about pushing updates — it’s about ensuring
 - **Future AI**: Tracker data becomes the foundation for predictive insights → fleet maintenance optimization, energy-aware updates.
 
 ## Demo scenario
-![alt text](<>)
+![alt text](<https://github.com/jeremynguyenn/Driver-Aware-State-Aware-Regulation-Ready-OTA/blob/main/pics/Brainstorming%20et%20id%C3%A9ation%20(5).png>)
 
 <img width="1085" height="1607" alt="image" src="" />
 
