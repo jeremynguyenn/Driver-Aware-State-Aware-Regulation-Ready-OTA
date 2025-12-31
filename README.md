@@ -1,4 +1,4 @@
-## For security reasons, only the content of readme.md, which contains the project information, will be IPed; the source code will be hidden.
+## For security reasons, only the content of readme.md, which contains project information, will be displayed; the source code will remain hidden.
 **Update Possible Challenge**
 ---
 ## Core Idea
